@@ -1,0 +1,1 @@
+int main() { long long x = 10; long long *ptr = &x; *ptr = 20; printf("%lld", x); return 0; }
