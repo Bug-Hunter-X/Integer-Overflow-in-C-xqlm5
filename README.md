@@ -1,0 +1,1 @@
+This repository contains a simple C program that demonstrates an integer overflow bug. The program attempts to assign a value to an integer variable that exceeds its maximum capacity. The solution demonstrates how to use larger integer types to handle large numbers. The program was compiled using GCC.
